@@ -36,7 +36,7 @@ const LoginForm: React.FC = () => {
               </div>
               <div>
                 <h1 className="text-2xl font-bold text-slate-900 tracking-tight">
-                  AR Studio
+                  TrueView AR
                 </h1>
                 <p className="text-sm text-slate-500 font-medium">Admin Access</p>
               </div>
@@ -112,7 +112,7 @@ const LoginForm: React.FC = () => {
           {/* Footer */}
           <div className="mt-8 text-center">
             <p className="text-xs text-slate-500">
-              Secure admin access for AR Studio management
+              Secure admin access for TrueView AR management
             </p>
           </div>
         </div>
