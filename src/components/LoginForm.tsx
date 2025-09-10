@@ -42,7 +42,7 @@ const LoginForm: React.FC = () => {
               </div>
             </div>
             <h2 className="text-xl font-bold text-slate-900 mb-2">Welcome Back</h2>
-            <p className="text-slate-600">Sign in to access the AR Studio dashboard</p>
+            <p className="text-slate-600">Sign in to access the TrueView dashboard</p>
           </div>
 
           {/* Login Form */}

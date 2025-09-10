@@ -114,7 +114,7 @@ const Dashboard: React.FC = () => {
       {/* Header */}
       <div className="text-center space-y-4">
         <h1 className="text-4xl md:text-5xl font-bold bg-gradient-to-r from-indigo-600 via-purple-600 to-blue-600 bg-clip-text text-transparent">
-          AR Studio Dashboard
+          TrueView Dashboard
         </h1>
         <p className="text-xl text-slate-600 max-w-3xl mx-auto leading-relaxed">
           Create immersive AR experiences and collaborate with clients through interactive 3D previews

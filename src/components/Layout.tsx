@@ -45,9 +45,9 @@ const Layout: React.FC<LayoutProps> = ({ children }) => {
                 </div>
                 <div>
                   <h1 className="text-lg sm:text-xl font-bold text-slate-900 tracking-tight">
-                    AR Studio
+                    TrueView AR
                   </h1>
-                  <p className="text-xs text-slate-500 font-medium hidden sm:block">by Relentless Designs</p>
+                  <p className="text-xs text-slate-500 font-medium hidden sm:block">AventorLabs</p>
                 </div>
               </div>
             </div>
